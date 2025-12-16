@@ -25,4 +25,6 @@ func main(){
 		log.Fatal(err)
 	}
 
+	//add code to separate direction and amount
+
 }
